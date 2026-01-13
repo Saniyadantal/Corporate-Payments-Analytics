@@ -27,9 +27,30 @@ This dashboard provides those insights in an executive-ready format.
 - BI dashboards for visualization  
 - Enterprise KPI design  
 
-## Screenshots
-See the uploaded images for:
-- Executive Summary  
-- Customer Analytics  
-- Merchant Analytics  
-- Risk & Utilization
+## Executive Summary
+![Executive Summary](executive1.png)
+![Monthly Spend Trend](monthlysepnd1.png)
+![Monthly Growth Analysis](monthlygrowth.png)
+
+## Customer Analytics
+![Customer Spend Distribution](customer1.png)
+![Top Customers](customer2.png)
+![Spend Concentration](customer3.png)
+![Top Customer Details ](customer4.png)
+
+
+## Merchant & Category Analytics
+![Top Merchants](merchant1.png)
+![Merchant Revenue](merchant2.png)
+![Category Spend Breakdown](category1.png)
+![Merchant Performance Details](category2.png)
+![Category Breakdown](category3.png)
+![Category Breakdown](category4.png)
+
+
+## Risk & Utilization
+![Inactive & Risky Accounts](risk1.png)
+![Risk Trend](risk2.png)
+![Detailed Risk Breakdown](risk3.png)
+
+
