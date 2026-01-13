@@ -29,8 +29,8 @@ This dashboard provides those insights in an executive-ready format.
 
 ## Executive Summary
 ![Executive Summary](executive1.png)
-![Monthly Spend Trend](monthlysepnd1.png)
-![Monthly Growth Analysis](monthlygrowth.png)
+![Monthly Spend Trend](monthlysepnd1.png.png)
+![Monthly Growth Analysis](monthlygrowth.png.png)
 
 ## Customer Analytics
 ![Customer Spend Distribution](customer1.png)
@@ -42,10 +42,10 @@ This dashboard provides those insights in an executive-ready format.
 ## Merchant & Category Analytics
 ![Top Merchants](merchant1.png)
 ![Merchant Revenue](merchant2.png)
-![Category Spend Breakdown](category1.png)
-![Merchant Performance Details](category2.png)
-![Category Breakdown](category3.png)
-![Category Breakdown](category4.png)
+![Category Spend Breakdown](category1.png.png)
+![Merchant Performance Details](category2.png.png)
+![Category Breakdown](category3.png.png)
+![Category Breakdown](category4.png.png)
 
 
 ## Risk & Utilization
